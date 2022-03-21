@@ -86,7 +86,7 @@
 										</svg>
 									</div>
 									<div class="icon-item__text">
-										<p>Phone: <br><a class="icon-item__link" href="tel:+31859644725">+ 243 990 413 132</a> <a class="icon-item__link" href="tel:+31859644725">+ 243 818 234 333</a></p>
+										<p>Phone: <br><a class="icon-item__link" href="tel:+31859644725">+ 243 990 156 400</a> <a class="icon-item__link" href="tel:+31859644725">+ 243 829 076 379</a></p>
 									</div>
 								</div>
 							</div>
@@ -98,7 +98,7 @@
 										</svg>
 									</div>
 									<div class="icon-item__text">
-										<p>Email: <a class="icon-item__link" href="mailto:support@helpo.org">aceov@gmail.org</a></p>
+										<p>Email: <a class="icon-item__link" href="mailto:support@helpo.org">contact@aceov-rdc.org</a></p>
 									</div>
 								</div>
 							</div>
