@@ -68,7 +68,7 @@
 						<div class="row offset-margin">
 							<div class="col-sm-6 col-lg-3">
 								<div class="icon-item">
-									<div class="icon-item__img"><img class="img--layout" src="img/icon_1-1.png" alt="img"/>
+									<div class="icon-item__img"><img class="img--layout" src="img/icons8_place_marker_120px.png" alt="img"/>
 										<svg class="icon icon-item__icon icon--red">
 											<use xlink:href="#location-pin"></use>
 										</svg>
@@ -80,7 +80,7 @@
 							</div>
 							<div class="col-sm-6 col-lg-3">
 								<div class="icon-item">
-									<div class="icon-item__img"><img class="img--layout" src="img/icon_2-2.png" alt="img"/>
+									<div class="icon-item__img"><img class="img--layout" src="img/icons8_cell_phone_120px.png" alt="img"/>
 										<svg class="icon icon-item__icon icon--orange">
 											<use xlink:href="#phone-call"></use>
 										</svg>
@@ -92,7 +92,7 @@
 							</div>
 							<div class="col-sm-6 col-lg-3">
 								<div class="icon-item">
-									<div class="icon-item__img"><img class="img--layout" src="img/icon_3-3.png" alt="img"/>
+									<div class="icon-item__img"><img class="img--layout" src="img/icons8_email_120px.png" alt="img"/>
 										<svg class="icon icon-item__icon icon--green">
 											<use xlink:href="#envelope"></use>
 										</svg>
@@ -104,7 +104,7 @@
 							</div>
 							<div class="col-sm-6 col-lg-3">
 								<div class="icon-item">
-									<div class="icon-item__img"><img class="img--layout" src="img/icon_4-4.png" alt="img"/>
+									<div class="icon-item__img"><img class="img--layout" src="img/icons8_link_120px.png" alt="img"/>
 										<svg class="icon icon-item__icon icon--blue">
 											<use xlink:href="#share"></use>
 										</svg>
@@ -133,25 +133,25 @@
 								<div class="col-xl-2"></div>
 								<div class="col-xl-8">
 									<form class="form message-form" action="javascript:void(0);">
-										<h6 class="form__title">Envoyer un message</h6>
+										<h6 class="form__title">Talk to us: </h6>
 										<div class="row">
 											<div class="col-lg-6">
-												<input class="form__field" type="text" name="first-name" placeholder="Nom *" required="required"/>
+												<input class="form__field" type="text" name="first-name" placeholder="Name *" required="required"/>
 											</div>
 											<div class="col-lg-6">
-												<input class="form__field" type="text" name="last-name" placeholder="POst-nom *" required="required"/>
+												<input class="form__field" type="text" name="last-name" placeholder="Surname *" required="required"/>
 											</div>
 											<div class="col-lg-6">
 												<input class="form__field" type="email" name="email" placeholder="Email *" required="required"/>
 											</div>
 											<div class="col-lg-6">
-												<input class="form__field" type="tel" name="phone-number" placeholder="Téléphone"/>
+												<input class="form__field" type="tel" name="phone-number" placeholder="Phone number"/>
 											</div>
 											<div class="col-12">
 												<textarea class="form__message form__field" name="message" placeholder="Message"></textarea>
 											</div>
 											<div class="col-12">
-												<button class="form__submit" type="submit">Envoyer</button>
+												<button class="form__submit" type="submit">Send</button>
 											</div>
 										</div>
 									</form>
