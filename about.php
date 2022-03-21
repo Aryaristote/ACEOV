@@ -70,12 +70,12 @@
 							<div class="col-12">
 								<div class="heading heading--primary"><span class="heading__pre-title">Team</span>
 									<!-- <h2 class="heading__title no-margin-bottom"><span>Découvre les personnes</span> <span>dévouées pour cette mission</span></h2> -->
-									<h2 class="heading__title no-margin-bottom"><span>who can be a member of ACEOV ?</span> <br>
-										<span>- Being alive and of good character.<br>- Be available, have a spirit of dedication and volunteerism.
+									<h6 class="heading__title no-margin-bottom"><span>who can be a member of ACEOV ?</span></h6> <br>
+										<span style="font-size: 22px;">- Being alive and of good character.<br>- Be available, have a spirit of dedication and volunteerism.
 										<br>- actively participate in the activities of the organization. <br> - Being available to sponsor totally or partially the programs and/or activities of the association according to its financial and material availability. <br>
 										- Have an empowerment activity or complete a project that meets the vision and purpose of ACEOV asbl.
 										</span><br>
-									</h2>
+									
 								</div>
 							</div>
 						</div>
@@ -89,7 +89,7 @@
 										<li><a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
 									</ul>
 									<div class="team-item__img-holder"><img class="img--layout" src="img/team_1.png" alt="layout"/>
-										<div class="team-item__img"><img class="img--bg" src="img/team_1.jpg" alt="teammate"/></div>
+										<div class="team-item__img"><img class="img--bg" src="img/coe-director.jpg" alt="teammate"/></div>
 									</div>
 									<div class="team-item__description">
 										<div class="team-item__name">Jacqueline Ntumba</div>
@@ -107,7 +107,7 @@
 										<li><a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
 									</ul>
 									<div class="team-item__img-holder"><img class="img--layout" src="img/team_2.png" alt="layout"/>
-										<div class="team-item__img"><img class="img--bg" src="img/team_2.jpg" alt="teammate"/></div>
+										<div class="team-item__img"><img class="img--bg" src="img/avatar-icon.jpg" alt="teammate"/></div>
 									</div>
 									<div class="team-item__description">
 										<div class="team-item__name">Odette Karangwayire Itungane</div>
@@ -125,7 +125,7 @@
 										<li><a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
 									</ul>
 									<div class="team-item__img-holder"><img class="img--layout" src="img/team_3.png" alt="layout"/>
-										<div class="team-item__img"><img class="img--bg" src="img/team_3.jpg" alt="teammate"/></div>
+										<div class="team-item__img"><img class="img--bg" src="img/avatar-boy.jpg" alt="teammate"/></div>
 									</div>
 									<div class="team-item__description">
 										<div class="team-item__name">Lukasa Tshibamba</div>

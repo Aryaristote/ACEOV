@@ -41,9 +41,9 @@
 						</div>
 						<div class="promo-slider__item promo-slider__item--style-2">
 							<picture>
-								<source srcset="img/promo_1.jpg" media="(min-width: 835px)"/>
-								<source srcset="img/834promo_1.jpg" media="(min-width: 376px)"/>
-								<img class="img--bg" src="img/promo_1.jpg" alt="img"/>
+								<source srcset="img/background-desktop.jpg" media="(min-width: 835px)"/>
+								<source srcset="img/background-mobile.jpg" media="(min-width: 376px)"/>
+								<img class="img--bg" src="img/background-desktop.jpg" alt="img"/>
 							</picture>
 							<div class="container">
 								<div class="row">

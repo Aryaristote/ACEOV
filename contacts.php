@@ -48,10 +48,7 @@
 				require "navbar/navbar.php";
 			?>
 			<main class="main">
-				<section class="promo-primary">
-					<picture>
-						<source srcset="img/contacts.jpg" media="(min-width: 992px)"/><img class="img--bg" src="img/contacts.jpg" alt="img"/>
-					</picture>
+				<section class="promo-primary" style="background-color: #000;">
 					<div class="container">
 						<div class="row">
 							<div class="col-auto">
@@ -77,7 +74,7 @@
 										</svg>
 									</div>
 									<div class="icon-item__text">
-										<p>Adress: Goma, C/ Karisimbi Av Mbula N 23</p>
+										<p>Adress: Goma on N*26, Les orchidées avenue, les volcans district, North Kivu in the Democratic Republic of Congo</p>
 									</div>
 								</div>
 							</div>
@@ -89,7 +86,7 @@
 										</svg>
 									</div>
 									<div class="icon-item__text">
-										<p>Phone: <a class="icon-item__link" href="tel:+31859644725">+ 243 990 413 132</a> <a class="icon-item__link" href="tel:+31859644725">+ 243 818 234 333</a></p>
+										<p>Phone: <br><a class="icon-item__link" href="tel:+31859644725">+ 243 990 413 132</a> <a class="icon-item__link" href="tel:+31859644725">+ 243 818 234 333</a></p>
 									</div>
 								</div>
 							</div>

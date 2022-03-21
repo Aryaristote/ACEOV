@@ -46,10 +46,7 @@
 				require "navbar/navbar.php";
 			?>
 			<main class="main">
-				<section class="promo-primary">
-					<picture>
-						<source srcset="img/contacts.jpg" media="(min-width: 992px)"/><img class="img--bg" src="img/contacts.jpg" alt="img"/>
-					</picture>
+				<section class="promo-primary" style="background-color: #3b1880;">
 					<div class="container">
 						<div class="row">
 							<div class="col-auto">

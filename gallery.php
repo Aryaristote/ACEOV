@@ -89,15 +89,15 @@
 							</a>
 						</div>
 						<div class="col-6 col-md-4 gallery-masonry__item category_4">
-							<a class="gallery-masonry__img gallery-masonry__item--height-2" href="img/formation-de-maman.jpg" data-fancybox="gallery">
-								<img class="img--bg" src="img/formation-de-maman.jpg" alt="img"/>
+							<a class="gallery-masonry__img gallery-masonry__item--height-2" href="img/29bbcb74-d715-4102-b84f-233c840b533e.jpg" data-fancybox="gallery">
+								<img class="img--bg" src="img/29bbcb74-d715-4102-b84f-233c840b533e.jpg" alt="img"/>
 								<h6 class="gallery-masonry__description">8 Nous avons besoin de votre soutien</h6>
 							</a>
 						</div>
 
 						<div class="col-6 col-md-4 gallery-masonry__item category_1">
-							<a class="gallery-masonry__img gallery-masonry__item--height-2" href="img/375promo_1.jpg" data-fancybox="gallery">
-								<img class="img--bg" src="img/375promo_1.jpg" alt="img"/>
+							<a class="gallery-masonry__img gallery-masonry__item--height-2" href="img/7bd77ec6-b8a0-4394-a2b9-7b394149302d.jpg" data-fancybox="gallery">
+								<img class="img--bg" src="img/7bd77ec6-b8a0-4394-a2b9-7b394149302d.jpg" alt="img"/>
 								<h6 class="gallery-masonry__description">1 Nous avons besoin de votre soutien</h6>
 							</a>
 						</div>
@@ -108,20 +108,20 @@
 							</a>
 						</div>
 						<div class="col-6 col-md-4 gallery-masonry__item category_2">
-							<a class="gallery-masonry__img gallery-masonry__item--height-2" href="img/gallery_3.jpg" data-fancybox="gallery">
-								<img class="img--bg" src="img/gallery_3.jpg" alt="img"/>
+							<a class="gallery-masonry__img gallery-masonry__item--height-2" href="img/84f4d4f7-2891-4afa-9d85-eef59d26d279.jpg" data-fancybox="gallery">
+								<img class="img--bg" src="img/84f4d4f7-2891-4afa-9d85-eef59d26d279.jpg" alt="img"/>
 								<h6 class="gallery-masonry__description">3 Nous avons besoin de votre soutien</h6>
 							</a>
 						</div>
 						<div class="col-6 col-md-4 gallery-masonry__item category_2">
-							<a class="gallery-masonry__img gallery-masonry__item--height-1" href="img/financing.png" data-fancybox="gallery">
-								<img class="img--bg" src="img/financing.png" alt="img"/>
+							<a class="gallery-masonry__img gallery-masonry__item--height-1" href="img/sdjdj3287464bfjfjsj643bf78wrh3467sd.jpg" data-fancybox="gallery">
+								<img class="img--bg" src="img/sdjdj3287464bfjfjsj643bf78wrh3467sd.jpg" alt="img"/>
 								<h6 class="gallery-masonry__description">5 Nous avons besoin de votre soutien</h6>
 							</a>
 						</div>
 						<div class="col-6 col-md-8 gallery-masonry__item category_3">
-							<a class="gallery-masonry__img gallery-masonry__item--height-1" href="img/financing.png" data-fancybox="gallery">
-								<img class="img--bg" src="img/financing.png" alt="img"/>
+							<a class="gallery-masonry__img gallery-masonry__item--height-1" href="img/sdjdj3287464bfjfjsj643bf78wrh3467sd.jpg" data-fancybox="gallery">
+								<img class="img--bg" src="img/sdjdj3287464bfjfjsj643bf78wrh3467sd.jpg" alt="img"/>
 								<h6 class="gallery-masonry__description">5 Nous avons besoin de votre soutien</h6>
 							</a>
 						</div>

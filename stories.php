@@ -14,10 +14,7 @@
 				require "navbar/navbar.php";
 			?>
 			<main class="main">
-				<section class="promo-primary">
-					<picture>
-						<source srcset="img/taillor-widower-color.jpg" media="(min-width: 992px)"/><img class="img--bg" src="img/stories.jpg" alt="img"/>
-					</picture>
+				<section class="promo-primary" style="background-color: #43c31c;">
 					<div class="container">
 						<div class="row">
 							<div class="col-auto">
