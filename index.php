@@ -332,7 +332,7 @@
 							</div>
 						</div>
 						<div class="col-lg-6 col-xl-4 projects-masonry__item projects-masonry__item--height-2 projects-masonry__item--primary">
-							<div class="projects-masonry__img"><img class="img--bg" src="img/IMG_8786 copy.jpg" alt="img"/>
+							<div class="projects-masonry__img"><img class="img--bg" src="img/gallery_5.jpg" alt="img"/>
 								<div class="projects-masonry__inner"><span class="projects-masonry__badge" style="background: #2EC774;">Training</span>
 									<h3 class="projects-masonry__title"> <a href="cause-details.php">Soap making training</a></h3>
 									<p>Soap-making training to facilitate self-care for widows.</p>
@@ -340,7 +340,7 @@
 							</div>
 						</div>
 						<div class="col-lg-6 col-xl-8 projects-masonry__item projects-masonry__item--height-2 projects-masonry__item--horizontal">
-							<div class="projects-masonry__img"><img class="img--bg" src="img/gallery_3.jpg" alt="img"/></div>
+							<div class="projects-masonry__img"><img class="img--bg" src="img/sdjdj3287464bfjfjsj643bf78wrh3467syelow.jpg" alt="img"/></div>
 							<div class="projects-masonry__text" style="background-color: #E78F51;">
 								<div class="projects-masonry__inner"><span class="projects-masonry__badge" style="background: #2EC774;">Education</span>
 									<h3 class="projects-masonry__title"> <a href="cause-details.php">Give money to pay for their studies to their mothers</a></h3>
@@ -371,7 +371,17 @@
 							</div>
 						</div>
 						<div class="row">
-							<div class="col-md-6 col-lg-4">
+							<div class="col-md-6 col-lg-3">
+								<div class="event-item">
+									<div class="event-item__img"><img class="img--bg" src="img/whater-prj6.jpg" alt="img"/></div>
+									<div class="event-item__content">
+										<h6 class="event-item__title"><a href="#">Water supply</a></h6>
+										<p>we have created a standpipe to provide access to drinking water in part of the himbi district</p>
+										<p><b>Country:</b> Democratic Republic of Congo / Goma town</p>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-6 col-lg-3">
 								<div class="event-item">
 									<div class="event-item__img"><img class="img--bg" src="img/IMG_0318.jpg" alt="img"/></div>
 									<div class="event-item__content">
@@ -381,7 +391,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-6 col-lg-4">
+							<div class="col-md-6 col-lg-3">
 								<div class="event-item">
 									<div class="event-item__img"><img class="img--bg" src="img/taillor-widower.jpg" alt="img"/></div>
 									<div class="event-item__content">
@@ -391,7 +401,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-6 col-lg-4">
+							<div class="col-md-6 col-lg-3">
 								<div class="event-item">
 									<div class="event-item__img"><img class="img--bg" src="img/storie_3.jpg" alt="img"/></div>
 									<div class="event-item__content">

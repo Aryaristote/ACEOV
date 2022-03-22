@@ -47,7 +47,7 @@
 				<!-- gallery start-->
 				<!-- ======= Portfolio Section ======= -->
 				<section class="portfolio">
-					<div class="container">
+					<div class="scnd_container">
 						<div class="row">
 							<div class="col-lg-12">
 								<ul id="portfolio-flters">
@@ -58,8 +58,8 @@
 								</ul>
 							</div>
 						</div>
-						<div class="row col-lg-12 portfolio-container" id="portfolio-container" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500">
-							<div class="col-lg-4 col-md-6 portfolio-wrap filter-card">
+						<div class="portfolio-container" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500">
+							<div class="item portfolio-wrap filter-app">
 								<div class="portfolio-item">
 									<img src="assets/img/portfolio/img1.jpg" class="img-fluid" alt="">
 									<div class="portfolio-info">
@@ -72,7 +72,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-lg-4 col-md-6 portfolio-wrap filter-card">
+							<div class="item portfolio-wrap filter-card">
 								<div class="portfolio-item">
 								<img src="assets/img/portfolio/img2.jpg" class="img-fluid" alt="">
 								<div class="portfolio-info">
@@ -83,7 +83,7 @@
 								</div>
 								</div>
 							</div>
-							<div class="col-lg-4 col-md-6 portfolio-wrap filter-card">
+							<div class="item portfolio-wrap filter-card">
 								<div class="portfolio-item">
 								<img src="assets/img/portfolio/img3.jpg" class="img-fluid" alt="">
 								<div class="portfolio-info">
@@ -95,7 +95,7 @@
 								</div>
 							</div>
 
-							<div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+							<div class="item portfolio-wrap filter-card">
 								<div class="portfolio-item">
 								<img src="assets/img/portfolio/img4.jpg" class="img-fluid" alt="">
 								<div class="portfolio-info">
@@ -107,7 +107,7 @@
 								</div>
 							</div>
 
-							<div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
+							<div class="item portfolio-wrap filter-app">
 								<div class="portfolio-item">
 								<img src="assets/img/portfolio/img5.jpg" class="img-fluid" alt="">
 								<div class="portfolio-info">
@@ -118,7 +118,7 @@
 								</div>
 								</div>
 							</div>
-							<div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
+							<div class="item portfolio-wrap filter-card">
 								<div class="portfolio-item">
 								<img src="assets/img/portfolio/img6.jpg" class="img-fluid" alt="">
 								<div class="portfolio-info">
@@ -129,7 +129,7 @@
 								</div>
 								</div>
 							</div>
-							<div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
+							<div class="item portfolio-wrap filter-card">
 								<div class="portfolio-item">
 								<img src="assets/img/portfolio/img7.jpg" class="img-fluid" alt="">
 								<div class="portfolio-info">
@@ -140,7 +140,7 @@
 								</div>
 								</div>
 							</div>
-							<div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
+							<div class="item portfolio-wrap filter-web">
 								<div class="portfolio-item">
 								<img src="assets/img/portfolio/img8.jpg" class="img-fluid" alt="">
 								<div class="portfolio-info">
@@ -151,7 +151,7 @@
 								</div>
 								</div>
 							</div>
-							<div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
+							<div class="item portfolio-wrap filter-web">
 								<div class="portfolio-item">
 								<img src="assets/img/portfolio/img9.jpg" class="img-fluid" alt="">
 								<div class="portfolio-info">
@@ -162,7 +162,7 @@
 								</div>
 								</div>
 							</div>
-							<div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
+							<div class="item portfolio-wrap filter-app">
 								<div class="portfolio-item">
 								<img src="assets/img/portfolio/img10.jpg" class="img-fluid" alt="">
 								<div class="portfolio-info">
@@ -173,7 +173,7 @@
 								</div>
 								</div>
 							</div>
-							<div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
+							<div class="item portfolio-wrap filter-card">
 								<div class="portfolio-item">
 								<img src="assets/img/portfolio/img11.jpg" class="img-fluid" alt="">
 								<div class="portfolio-info">
@@ -184,7 +184,7 @@
 								</div>
 								</div>
 							</div>
-							<div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
+							<div class="item portfolio-wrap filter-card">
 								<div class="portfolio-item">
 								<img src="assets/img/portfolio/img12.jpg" class="img-fluid" alt="">
 								<div class="portfolio-info">
@@ -195,7 +195,7 @@
 								</div>
 								</div>
 							</div>
-							<div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
+							<div class="item portfolio-wrap filter-web">
 								<div class="portfolio-item">
 								<img src="assets/img/portfolio/img13.jpg" class="img-fluid" alt="">
 								<div class="portfolio-info">
@@ -206,7 +206,7 @@
 								</div>
 								</div>
 							</div>
-							<div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
+							<div class="item portfolio-wrap filter-card">
 								<div class="portfolio-item">
 								<img src="assets/img/portfolio/img14.jpg" class="img-fluid" alt="">
 								<div class="portfolio-info">
@@ -217,7 +217,7 @@
 								</div>
 								</div>
 							</div>
-							<div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
+							<div class="item portfolio-wrap filter-web">
 								<div class="portfolio-item">
 								<img src="assets/img/portfolio/img15.jpg" class="img-fluid" alt="">
 								<div class="portfolio-info">
@@ -228,7 +228,7 @@
 								</div>
 								</div>
 							</div>
-							<div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
+							<div class="item portfolio-wrap filter-app">
 								<div class="portfolio-item">
 								<img src="assets/img/portfolio/img16.jpg" class="img-fluid" alt="">
 								<div class="portfolio-info">
@@ -239,7 +239,7 @@
 								</div>
 								</div>
 							</div>
-							<div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
+							<div class="item portfolio-wrap filter-card">
 								<div class="portfolio-item">
 								<img src="assets/img/portfolio/img17.jpg" class="img-fluid" alt="">
 								<div class="portfolio-info">
@@ -250,40 +250,7 @@
 								</div>
 								</div>
 							</div>
-							<div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
-								<div class="portfolio-item">
-								<img src="assets/img/portfolio/img18.jpg" class="img-fluid" alt="">
-								<div class="portfolio-info">
-									<div>
-									<a href="assets/img/portfolio/img18.jpg" data-galleryery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-									<a href="#" title="Portfolio Details"><i class="bx bx-link"></i></a>
-									</div>
-								</div>
-								</div>
-							</div>
-							<div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
-								<div class="portfolio-item">
-								<img src="assets/img/portfolio/img18.jpg" class="img-fluid" alt="">
-								<div class="portfolio-info">
-									<div>
-									<a href="assets/img/portfolio/img18.jpg" data-galleryery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-									<a href="#" title="Portfolio Details"><i class="bx bx-link"></i></a>
-									</div>
-								</div>
-								</div>
-							</div>
-							<div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
-								<div class="portfolio-item">
-								<img src="assets/img/portfolio/img19.jpg" class="img-fluid" alt="">
-								<div class="portfolio-info">
-									<div>
-									<a href="assets/img/portfolio/img19.jpg" data-galleryery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-									<a href="#" title="Portfolio Details"><i class="bx bx-link"></i></a>
-									</div>
-								</div>
-								</div>
-							</div>
-							<div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
+							<div class="item portfolio-wrap filter-card">
 								<div class="portfolio-item">
 								<img src="assets/img/portfolio/img20.jpg" class="img-fluid" alt="">
 								<div class="portfolio-info">

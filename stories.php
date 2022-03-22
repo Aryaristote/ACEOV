@@ -134,7 +134,7 @@
 					</div>
 				</section>
 				<!-- stories end-->
-			</main>
+			</main> 
 			<!-- footer start-->
 			<footer class="footer">
 				<?php 

@@ -15,13 +15,13 @@
         <div class="col-sm-6 col-lg-3">
             <h4 class="footer__title">Contacts</h4>
             <div class="footer-contacts">
-                <p class="footer-contacts__phone">Phone: <a href="tel:+31859644725">+243 990 413 132</a></p>
-                <p class="footer-contacts__phone">Phone: <a href="tel:+31859644725">+243 855 964 471</a></p>
-                <p class="footer-contacts__mail">Email: <a href="mailto:support@helpo.org">aceov@gmail.org</a></p>
+                <p class="footer-contacts__phone">Phone: <a href="tel:+31859644725">+ 243 990 156 400</a></p>
+                <p class="footer-contacts__phone">Phone: <a href="tel:+31859644725">+ 243 829 076 379</a></p>
+                <p class="footer-contacts__mail">Email: <a href="mailto:support@helpo.org">contact@aceov-rdc.org</a></p>
             </div>
         </div>
         <div class="col-sm-6 col-lg-3">
-            <h4 class="footer__title">Menu & Liens</h4>
+            <h4 class="footer__title">Menu & Links</h4>
             <!-- footer nav start-->
             <nav>
                 <ul class="footer-menu">
