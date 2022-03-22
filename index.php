@@ -312,7 +312,9 @@
 							</div>
 						</div>
 						<div class="col-lg-6 col-xl-8 projects-masonry__item projects-masonry__item--height-2 projects-masonry__item--horizontal">
-							<div class="projects-masonry__img"><img class="img--bg" src="img/_78597443__nk_8596.jpg" alt="img"/></div>
+							<div class="projects-masonry__img">
+								<img class="img--bg" src="img/_78597443__nk_8596.jpg" alt="img"/>
+							</div>
 							<div class="projects-masonry__text" style="background-color: #9BC35E;">
 								<div class="projects-masonry__inner"><span class="projects-masonry__badge" style="background: #F36F8F;">Formation</span>
 									<h3 class="projects-masonry__title">The Training of Orphans</h3>
@@ -324,7 +326,8 @@
 							</div>
 						</div>
 						<div class="col-lg-6 col-xl-8 projects-masonry__item projects-masonry__item--height-1 projects-masonry__item--primary">
-							<div class="projects-masonry__img"><img class="img--bg" src="img/formation-de-maman.jpg" alt="img"/>
+							<div class="projects-masonry__img">
+								<img class="img--bg" src="img/formation-de-maman.jpg" alt="img"/>
 								<div class="projects-masonry__inner"><span class="projects-masonry__badge" style="background: #F8AC3A;">Training</span>
 									<h3 class="projects-masonry__title"> <a href="cause-details.php">The training of widowed mothers</a></h3>
 									<p>Offering small activities to widowed women to meet their needs</p>

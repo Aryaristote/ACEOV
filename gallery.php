@@ -51,17 +51,41 @@
 						<div class="row">
 							<div class="col-lg-12">
 								<ul id="portfolio-flters">
-								<li data-filter="*" class="filter-active">All pictures</li>
-								<li data-filter=".filter-app">Water supply</li>
-								<li data-filter=".filter-card">Entrepreneurship and financing</li>
-								<li data-filter=".filter-web">Soap making</li>
+									<li data-filter="*" class="filter-active">All pictures</li>
+									<li data-filter=".filter-app">Water supply</li>
+									<li data-filter=".filter-card">Entrepreneurship and financing</li>
+									<li data-filter=".filter-web">Soap making</li>
 								</ul>
 							</div>
 						</div>
+
+						<!-- <video width="100%" height="400" controls autoplay muted>
+									<source src="img/video/mov_bbb.mp4" type="video/mp4">
+									<source src="img/video/mov_bbb.mp4" type="video/ogg">
+									Your browser does not support the video tag.
+								</video> -->
+
 						<div class="portfolio-container" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500">
 							<div class="item portfolio-wrap filter-app">
 								<div class="portfolio-item">
 									<img src="assets/img/portfolio/img1.jpg" class="img-fluid" alt="">
+									<div class="portfolio-info">
+										<div>
+										<a href="assets/img/portfolio/img1.jpg" data-galleryery="portfolioGallery" class="portfolio-lightbox">
+											<i class="bx bx-plus"></i>
+										</a>
+										<a href="#" title="Portfolio Details"><i class="bx bx-link"></i></a>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="item portfolio-wrap filter-app">
+								<div class="portfolio-item">
+									<video width="100%" height="" controls autoplay muted>
+										<source src="img/video/mov_bbb.mp4" type="video/mp4">
+										<source src="img/video/mov_bbb.mp4" type="video/ogg">
+										Your browser does not support the video tag.
+									</video>
 									<div class="portfolio-info">
 										<div>
 										<a href="assets/img/portfolio/img1.jpg" data-galleryery="portfolioGallery" class="portfolio-lightbox">
@@ -171,6 +195,23 @@
 									<a href="#" title="Portfolio Details"><i class="bx bx-link"></i></a>
 									</div>
 								</div>
+								</div>
+							</div>
+							<div class="item portfolio-wrap filter-app">
+								<div class="portfolio-item">
+									<video width="100%" height="" controls autoplay muted>
+										<source src="img/video/mov_bbb.mp4" type="video/mp4">
+										<source src="img/video/mov_bbb.mp4" type="video/ogg">
+										Your browser does not support the video tag.
+									</video>
+									<div class="portfolio-info">
+										<div>
+										<a href="assets/img/portfolio/img1.jpg" data-galleryery="portfolioGallery" class="portfolio-lightbox">
+											<i class="bx bx-plus"></i>
+										</a>
+										<a href="#" title="Portfolio Details"><i class="bx bx-link"></i></a>
+										</div>
+									</div>
 								</div>
 							</div>
 							<div class="item portfolio-wrap filter-card">
