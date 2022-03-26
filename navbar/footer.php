@@ -52,7 +52,7 @@
     <div class="row align-items-baseline">
         <div class="col-md-6">
             <p class="footer-copyright">© 2022 ACEOV 
-                <b><a href="https://celebrons.org/" style="text-decoration: none;">Celebrons Events</a></b>
+                <!-- <b><a href="https://celebrons.org/" style="text-decoration: none;">Celebrons Events</a></b> -->
             </p>
         </div>
     </div>
