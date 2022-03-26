@@ -74,10 +74,10 @@
 					<div class="promo-pannel"><a class="anchor promo-pannel__anchor" href="#about"> <span>+ More</span></a>
 						<div class="promo-pannel__phones">
 							<p class="promo-pannel__title">Phone Number</p>
-							<a class="promo-pannel__link" href="tel:+243990413132"></a><a class="promo-pannel__link" href="tel:+18009756511">+243 990 413 132 - 975 652 211</a>
+							<a class="promo-pannel__link" href="tel:+243990413132"></a><a class="promo-pannel__link" href="tel:+18009756511">+ 243 990 156 400 - 975 652 211</a>
 						</div>
-						<div class="promo-pannel__email">
-							<p class="promo-pannel__title">Email</p><a class="promo-pannel__link" href="mailto:contact@aceov.org">contact@aceov.org</a>
+						<div class="promo-pannel__email" style="white-space: nowrap;">
+							<p class="promo-pannel__title">Email</p><a class="promo-pannel__link" href="mailto:contact@aceov.org">contact@aceov-drc.org</a>
 						</div>
 					</div>
 

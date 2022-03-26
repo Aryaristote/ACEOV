@@ -98,7 +98,7 @@
 										</svg>
 									</div>
 									<div class="icon-item__text">
-										<p>Email: <a class="icon-item__link" href="mailto:support@helpo.org">contact@aceov-rdc.org</a></p>
+										<p>Email: <a class="icon-item__link" href="mailto:support@helpo.org">contact@aceov-drc.org</a></p>
 									</div>
 								</div>
 							</div>

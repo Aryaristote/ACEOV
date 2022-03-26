@@ -81,19 +81,7 @@
 							</div>
 							<div class="item portfolio-wrap filter-app">
 								<div class="portfolio-item">
-									<video width="100%" height="" controls autoplay muted>
-										<source src="img/video/mov_bbb.mp4" type="video/mp4">
-										<source src="img/video/mov_bbb.mp4" type="video/ogg">
-										Your browser does not support the video tag.
-									</video>
-									<div class="portfolio-info">
-										<div>
-										<a href="assets/img/portfolio/img1.jpg" data-galleryery="portfolioGallery" class="portfolio-lightbox">
-											<i class="bx bx-plus"></i>
-										</a>
-										<a href="#" title="Portfolio Details"><i class="bx bx-link"></i></a>
-										</div>
-									</div>
+								   <iframe width="420" height="200" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/8wlQWFQu04k"></iframe>
 								</div>
 							</div>
 							<div class="item portfolio-wrap filter-card">
@@ -199,19 +187,7 @@
 							</div>
 							<div class="item portfolio-wrap filter-app">
 								<div class="portfolio-item">
-									<video width="100%" height="" controls autoplay muted>
-										<source src="img/video/mov_bbb.mp4" type="video/mp4">
-										<source src="img/video/mov_bbb.mp4" type="video/ogg">
-										Your browser does not support the video tag.
-									</video>
-									<div class="portfolio-info">
-										<div>
-										<a href="assets/img/portfolio/img1.jpg" data-galleryery="portfolioGallery" class="portfolio-lightbox">
-											<i class="bx bx-plus"></i>
-										</a>
-										<a href="#" title="Portfolio Details"><i class="bx bx-link"></i></a>
-										</div>
-									</div>
+								   <iframe width="420" height="200"  allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/J1BG9VvapFc"></iframe>
 								</div>
 							</div>
 							<div class="item portfolio-wrap filter-card">

@@ -53,8 +53,11 @@
 					<div class="container">
 						<div class="row align-items-center">
 							<div class="col-lg-6">
-								<h4 class="about-us__subtitle">
-								Our objective is to support, supervise and unite women and young people in the provinces of North Kivu and all the other provinces in their entrepreneurial initiatives (agro-pastoral, small business, etc.); income-generating and job-creating activities for the empowerment of this layer.</h4>
+								<h4 class="about-us__subtitle" style="font-weight:normal; font-size: 30px;">
+								<p>
+								    Our objective is to support, supervise and unite women and young people in the provinces of North Kivu and all the other provinces in their entrepreneurial initiatives (agro-pastoral, small business, etc.); income-generating and job-creating activities for the empowerment of this layer.
+								</p>
+								</h4>
 								</div>
 							<div class="col-lg-6 col-xl-5 offset-xl-1">
 								<div class="about-us__text-aside">Our Goal</div>
