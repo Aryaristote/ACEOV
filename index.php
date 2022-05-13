@@ -17,9 +17,9 @@
 					<div class="promo-slider">
 						<div class="promo-slider__item promo-slider__item--style-1">
 							<picture>
-								<source srcset="img/background-desktop.jpg" media="(min-width: 835px)"/>
+								<source srcset="img/retauched.jpg" media="(min-width: 835px)"/>
 								<source srcset="img/background-mobile.jpg" media="(min-width: 376px)"/>
-								<img class="img--bg" src="img/background-desktop.jpg" alt="img"/>
+								<img class="img--bg" src="img/retauched.jpg" alt="img"/>
 							</picture>
 							<div class="container">
 								<div class="row">

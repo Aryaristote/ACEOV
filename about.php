@@ -83,7 +83,7 @@
 							</div>
 						</div>
 						<div class="row margin-bottom">
-							<div class="col-sm-6 col-lg-4 col-xl-3">
+							<div class="col-sm-6 col-lg-4 col-xl-4">
 								<!-- iteam start-->
 								<div class="team-item team-item--rounded">
 									<ul class="team-item__socials">
@@ -101,7 +101,7 @@
 								</div>
 								<!-- iteam end-->
 							</div>
-							<div class="col-sm-6 col-lg-4 col-xl-3">
+							<div class="col-sm-6 col-lg-4 col-xl-4">
 								<!-- iteam start-->
 								<div class="team-item team-item--rounded">
 									<ul class="team-item__socials">
@@ -119,25 +119,8 @@
 								</div>
 								<!-- iteam end-->
 							</div>
-							<div class="col-sm-6 col-lg-4 col-xl-3">
-								<!-- iteam start-->
-								<div class="team-item team-item--rounded">
-									<ul class="team-item__socials">
-										<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-										<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-										<li><a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
-									</ul>
-									<div class="team-item__img-holder"><img class="img--layout" src="img/team_3.png" alt="layout"/>
-										<div class="team-item__img"><img class="img--bg" src="img/avatar-boy.jpg" alt="teammate"/></div>
-									</div>
-									<div class="team-item__description">
-										<div class="team-item__name">Lukasa Tshibamba</div>
-										<div class="team-item__position">Logistics Officer</div>
-									</div>
-								</div>
-								<!-- iteam end-->
-							</div>
-							<div class="col-sm-6 col-lg-4 col-xl-3">
+							
+							<div class="col-sm-6 col-lg-4 col-xl-4">
 								<!-- iteam start-->
 								<div class="team-item team-item--rounded">
 									<ul class="team-item__socials">
