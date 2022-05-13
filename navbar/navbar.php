@@ -25,8 +25,8 @@
             <li class="aside-menu__item"><a class="aside-menu__link" href="#">Contacts</a></li>
         </ul>
         <!-- aside menu end-->
-        <div class="aside-inner"><span class="aside-inner__title">Email</span><a class="aside-inner__link" href="mailto:contact@aceov-drc.org">contact@aceov-drc.org</a></div>
-        <div class="aside-inner"><span class="aside-inner__title">Phone number</span><a class="aside-inner__link" href="tel:+180012345678">+ 243 990 156 400</a><a class="aside-inner__link" href="tel:+18009756511">+ 243 829 076 379</a></div>
+        <div class="aside-inner"><span class="aside-inner__title">Email</span><a class="aside-inner__link" href="mailto:aceovdrc@gmail.com">aceovdrc@gmail.com</a></div>
+        <div class="aside-inner"><span class="aside-inner__title">Phone number</span><a class="aside-inner__link" href="tel:+243990156400">+ 243 990 156 400</a><a class="aside-inner__link" href="tel:+243998066046">+ 243 998 066 046</a></div>
         <ul class="aside-socials">
             <li class="aside-socials__item"><a class="aside-socials__link" href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
             <li class="aside-socials__item"><a class="aside-socials__link" href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>

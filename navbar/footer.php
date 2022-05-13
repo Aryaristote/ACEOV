@@ -15,9 +15,9 @@
         <div class="col-sm-6 col-lg-3">
             <h4 class="footer__title">Contacts</h4>
             <div class="footer-contacts">
-                <p class="footer-contacts__phone">Phone: <a href="tel:+31859644725">+ 243 990 156 400</a></p>
-                <p class="footer-contacts__phone">Phone: <a href="tel:+31859644725">+ 243 829 076 379</a></p>
-                <p class="footer-contacts__mail">Email: <a href="mailto:contact@aceov-drc.org">contact@aceov-drc.org</a></p>
+                <p class="footer-contacts__phone">Phone: <a href="tel:+243990156400">+ 243 990 156 400</a></p>
+                <p class="footer-contacts__phone">Phone: <a href="tel:+243998066046">+ 243 998 046 066</a></p>
+                <p class="footer-contacts__mail">Email: <a href="mailto:aceovdrc@gmail.com">aceovdrc@gmail.com</a></p>
             </div>
         </div>
         <div class="col-sm-6 col-lg-3">

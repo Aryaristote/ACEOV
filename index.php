@@ -77,7 +77,7 @@
 							<a class="promo-pannel__link" href="tel:+243990413132"></a><a class="promo-pannel__link" href="tel:+18009756511">+ 243 990 156 400 - 975 652 211</a>
 						</div>
 						<div class="promo-pannel__email" style="white-space: nowrap;">
-							<p class="promo-pannel__title">Email</p><a class="promo-pannel__link" href="mailto:contact@aceov.org">contact@aceov-drc.org</a>
+							<p class="promo-pannel__title">Email</p><a class="promo-pannel__link" href="mailto:contact@aceov.org">aceovdrc@gmail.com</a>
 						</div>
 					</div>
 
