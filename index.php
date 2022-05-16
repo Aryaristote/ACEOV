@@ -396,7 +396,7 @@
 							</div>
 							<div class="col-md-6 col-lg-3">
 								<div class="event-item">
-									<div class="event-item__img"><img class="img--bg" src="img/taillor-widower.jpg" alt="img"/></div>
+									<div class="event-item__img"><img class="img--bg" src="img/image-sewing&cut.jpg" alt="img"/></div>
 									<div class="event-item__content">
 										<h6 class="event-item__title"><a href="#">Introduction to tailoring</a></h6>
 										<p><b>Country:</b> Democratic Republic of Congo</p>
