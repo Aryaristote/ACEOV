@@ -68,10 +68,10 @@
 						<div class="portfolio-container" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500">
 							<div class="item portfolio-wrap filter-app">
 								<div class="portfolio-item">
-									<img src="assets/img/portfolio/img1.jpg" class="img-fluid" alt="">
+									<img src="assets/img/portfolio/img23.jpg" class="img-fluid" alt="">
 									<div class="portfolio-info">
 										<div>
-										<a href="assets/img/portfolio/img1.jpg" data-galleryery="portfolioGallery" class="portfolio-lightbox">
+										<a href="assets/img/portfolio/img23.jpg" data-galleryery="portfolioGallery" class="portfolio-lightbox">
 											<i class="bx bx-plus"></i>
 										</a>
 										<a href="#" title="Portfolio Details"><i class="bx bx-link"></i></a>
@@ -97,10 +97,10 @@
 							</div>
 							<div class="item portfolio-wrap filter-card">
 								<div class="portfolio-item">
-								<img src="assets/img/portfolio/img3.jpg" class="img-fluid" alt="">
+								<img src="assets/img/portfolio/img27.jpg" class="img-fluid" alt="">
 								<div class="portfolio-info">
 									<div>
-									<a href="assets/img/portfolio/img3.jpg" data-galleryery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+									<a href="assets/img/portfolio/img27.jpg" data-galleryery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
 									<a href="#" title="Portfolio Details"><i class="bx bx-link"></i></a>
 									</div>
 								</div>
@@ -165,10 +165,10 @@
 							</div>
 							<div class="item portfolio-wrap filter-web">
 								<div class="portfolio-item">
-								<img src="assets/img/portfolio/img9.jpg" class="img-fluid" alt="">
+								<img src="assets/img/portfolio/img26.jpg" class="img-fluid" alt="">
 								<div class="portfolio-info">
 									<div>
-									<a href="assets/img/portfolio/img9.jpg" data-galleryery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+									<a href="assets/img/portfolio/img26.jpg" data-galleryery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
 									<a href="#" title="Portfolio Details"><i class="bx bx-link"></i></a>
 									</div>
 								</div>
@@ -280,10 +280,76 @@
 							</div>
 							<div class="item portfolio-wrap filter-card">
 								<div class="portfolio-item">
-								<img src="img/sdjdj3287464bfjfjsj643bf78wrh3467sd.jpg" class="img-fluid" alt="">
+								<img src="assets/img/portfolio/img21.jpg" class="img-fluid" alt="">
 								<div class="portfolio-info">
 									<div>
-									<a href="img/sdjdj3287464bfjfjsj643bf78wrh3467sd.jpg" data-galleryery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+									<a href="assets/img/portfolio/img21.jpg" data-galleryery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+									<a href="#" title="Portfolio Details"><i class="bx bx-link"></i></a>
+									</div>
+								</div>
+								</div>
+							</div>
+							<div class="item portfolio-wrap filter-card">
+								<div class="portfolio-item">
+								<img src="assets/img/portfolio/img22.jpg" class="img-fluid" alt="">
+								<div class="portfolio-info">
+									<div>
+									<a href="assets/img/portfolio/img22.jpg" data-galleryery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+									<a href="#" title="Portfolio Details"><i class="bx bx-link"></i></a>
+									</div>
+								</div>
+								</div>
+							</div>
+							<div class="item portfolio-wrap filter-card">
+								<div class="portfolio-item">
+								<img src="assets/img/portfolio/img1.jpg" class="img-fluid" alt="">
+								<div class="portfolio-info">
+									<div>
+									<a href="assets/img/portfolio/img1.jpg" data-galleryery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+									<a href="#" title="Portfolio Details"><i class="bx bx-link"></i></a>
+									</div>
+								</div>
+								</div>
+							</div>
+							<div class="item portfolio-wrap filter-card">
+								<div class="portfolio-item">
+								<img src="assets/img/portfolio/img24.jpg" class="img-fluid" alt="">
+								<div class="portfolio-info">
+									<div>
+									<a href="assets/img/portfolio/img24.jpg" data-galleryery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+									<a href="#" title="Portfolio Details"><i class="bx bx-link"></i></a>
+									</div>
+								</div>
+								</div>
+							</div>
+							<div class="item portfolio-wrap filter-card">
+								<div class="portfolio-item">
+								<img src="assets/img/portfolio/img25.jpg" class="img-fluid" alt="">
+								<div class="portfolio-info">
+									<div>
+									<a href="assets/img/portfolio/img25.jpg" data-galleryery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+									<a href="#" title="Portfolio Details"><i class="bx bx-link"></i></a>
+									</div>
+								</div>
+								</div>
+							</div>
+							<div class="item portfolio-wrap filter-card">
+								<div class="portfolio-item">
+								<img src="assets/img/portfolio/img9.jpg" class="img-fluid" alt="">
+								<div class="portfolio-info">
+									<div>
+									<a href="assets/img/portfolio/img9.jpg" data-galleryery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+									<a href="#" title="Portfolio Details"><i class="bx bx-link"></i></a>
+									</div>
+								</div>
+								</div>
+							</div>
+							<div class="item portfolio-wrap filter-card">
+								<div class="portfolio-item">
+								<img src="assets/img/portfolio/img3.jpg" class="img-fluid" alt="">
+								<div class="portfolio-info">
+									<div>
+									<a href="assets/img/portfolio/img3.jpg" data-galleryery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
 									<a href="#" title="Portfolio Details"><i class="bx bx-link"></i></a>
 									</div>
 								</div>
