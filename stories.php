@@ -72,14 +72,32 @@
 									<div class="row align-items-center flex-column-reverse flex-lg-row">
 										<div class="col-lg-6 col-xl-6">
 											<div class="heading heading--primary"><span class="heading__pre-title">03</span>
-												<h2 class="heading__title"><span>Entrepreneurship & </span> <span>financing</span></h2>
+												<h2 class="heading__title"><span>sewing </span> <span>cut</span></h2>
 											</div>
-											<p>Grant micro credits to widows who carry out small businesses in order to increase their capital. For this it is imperative to organize the training of trainers in all these different areas. Below is the schedule of activities for the year 2020.</p>
+											<p>Fashion, today taken as a development aid in Congolese society and a means of survival for most Congolese 
+												women, Through our association we train women in tailoring to meet their needs.</p>
 										</div>
 										<div class="col-lg-6 col-xl-5 offset-xl-1">
 											<div class="img-box"><img class="img--layout" src="img/storie_2-layout.png" alt="img"/>
+												<div class="img-box__img"><img class="img--bg" src="img/image-sewing&cut.jpg" alt="img"/></div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-10 offset-md-1 col-lg-12 offset-lg-0">
+								<div class="stories-item">
+									<div class="row align-items-center flex-column-reverse flex-lg-row">
+										<div class="col-lg-6 col-xl-5">
+											<div class="img-box"><img class="img--layout" src="img/storie_2-layout.png" alt="img"/>
 												<div class="img-box__img"><img class="img--bg" src="img/financing.png" alt="img"/></div>
 											</div>
+										</div>
+										<div class="col-lg-6 col-xl-6 offset-xl-1">
+											<div class="heading heading--primary"><span class="heading__pre-title">04</span>
+												<h2 class="heading__title"><span>Entrepreneurship & </span> <span>financing</span></h2>
+											</div>
+											<p>Grant micro credits to widows who carry out small businesses in order to increase their capital. For this it is imperative to organize the training of trainers in all these different areas. Below is the schedule of activities for the year 2020.</p>
 										</div>
 									</div>
 								</div>
@@ -87,34 +105,34 @@
 							<div class="col-md-10 offset-md-1 col-lg-12 offset-lg-0">
 								<div class="stories-item">
 									<div class="row align-items-center">
-										<div class="col-lg-6 col-xl-5">
-											<div class="img-box"><img class="img--layout" src="img/storie_3-layout.png" alt="img"/>
-												<div class="img-box__img"><img class="img--bg" src="img/plannig-familliale.png" alt="img"/></div>
-											</div>
-										</div>
-										<div class="col-lg-6 col-xl-6 offset-xl-1">
-											<div class="heading heading--primary"><span class="heading__pre-title">04</span>
+										<div class="col-lg-6 col-xl-6">
+											<div class="heading heading--primary"><span class="heading__pre-title">05</span>
 												<h2 class="heading__title"><span>Health &</span><span> Family</span></h2>
 											</div>
 											<p>Raise awareness about the different methods of family planning, because Family planning eliminates the fear of unwanted pregnancy and can improve sex life, relationships within the couple and the well-being of the family.</p>
 										</div>
+										<div class="col-lg-6 col-xl-5 offset-xl-1">
+											<div class="img-box"><img class="img--layout" src="img/storie_3-layout.png" alt="img"/>
+												<div class="img-box__img"><img class="img--bg" src="img/plannig-familliale.png" alt="img"/></div>
+											</div>
+										</div>
 									</div>
 								</div>
 							</div>
 							<div class="col-md-10 offset-md-1 col-lg-12 offset-lg-0">
 								<div class="stories-item">
 									<div class="row align-items-center flex-column-reverse flex-lg-row">
-										<div class="col-lg-6 col-xl-6">
-											<div class="heading heading--primary"><span class="heading__pre-title">05</span>
-												<h2 class="heading__title"><span>Nutrition & </span> <span>Health</span></h2>
-											</div>
-											<p>Sensitize widows who have children showing signs of malnutrition and other diseases due to this; organizer of an ongoing nutrition program with the distribution of food when needed; if necessary provide medical assistance and eventually have our own nutritional and therapeutic center.</p>
-										</div>
-										<div class="col-lg-6 col-xl-5 offset-xl-1">
+										<div class="col-lg-6 col-xl-5">
 											<div class="img-box"><img class="img--layout" src="img/storie_4-layout.png" alt="img"/>
 												<div class="img-box__img"><img class="img--bg" src="img/mal-nutrution.png" alt="img"/></div>
 											</div>
 										</div>
+										<div class="col-lg-6 col-xl-6 offset-xl-1">
+											<div class="heading heading--primary"><span class="heading__pre-title">06</span>
+												<h2 class="heading__title"><span>Nutrition & </span> <span>Health</span></h2>
+											</div>
+											<p>Sensitize widows who have children showing signs of malnutrition and other diseases due to this; organizer of an ongoing nutrition program with the distribution of food when needed; if necessary provide medical assistance and eventually have our own nutritional and therapeutic center.</p>
+										</div>
 									</div>
 								</div>
 							</div>
@@ -122,7 +140,7 @@
 								<div class="stories-item">
 									<div class="row align-items-center flex-column-reverse flex-lg-row">
 										<div class="col-lg-6 col-xl-6">
-											<div class="heading heading--primary"><span class="heading__pre-title">06</span>
+											<div class="heading heading--primary"><span class="heading__pre-title">07</span>
 												<h2 class="heading__title"><span>Donation & </span> <span>Legs</span></h2>
 											</div>
 											<p>Poursuite de la prise en charge de la santé et nutrition des Orphelins et vulnérables.</p>
